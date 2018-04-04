@@ -1,3 +1,5 @@
+NB: "example.uct" is not uploaded yet for data confidentiality reasons, will follow up soon.
+
 # InfluenceComputation
 A script compliant with EU's SOGL to assess influence of external elements on a grid model. Supports UCTE DEF CGM as well as import from PSSE.
 
